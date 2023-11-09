@@ -19,9 +19,9 @@ function Projects() {
             <ProjectCard
               // imgPath={chatify}
               isBlog={false}
-              title="EPIC Voice Assistant"
-              description="This is a Voice Assistant Project completely made in Python Programming Language. It uses MySQL for data storage and multiple python libraries and APIs to interpret user command and answers accordingly."
-              ghLink="https://github.com/nabhpatodi10/Voice_Assistant_EPIC"
+              title="Simple Calculator"
+              //description="This is a Voice Assistant Project completely made in Python Programming Language. It uses MySQL for data storage and multiple python libraries and APIs to interpret user command and answers accordingly."
+              //ghLink="https://github.com/nabhpatodi10/Voice_Assistant_EPIC"
               //demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -30,9 +30,9 @@ function Projects() {
             <ProjectCard
               // imgPath={bitsOfCode}
               isBlog={false}
-              title="Hostel Management System"
-              description="This project is made completely in Python Programming Language. The UI is made using TkInter Python Library and MySQL is used for Data Managament and Storage"
-              ghLink="https://github.com/nabhpatodi10/Hostel_Management_System"
+              title="Guess the number game"
+              //description="This project is made completely in Python Programming Language. The UI is made using TkInter Python Library and MySQL is used for Data Managament and Storage"
+              //ghLink="https://github.com/nabhpatodi10/Hostel_Management_System"
               //demoLink="https://blogs.soumya-jit.tech/"
             />
           </Col>
@@ -41,9 +41,9 @@ function Projects() {
             <ProjectCard
               // imgPath={editor}
               isBlog={false}
-              title="News Type classification"
-              description="This is a News Type Classification project that uses Random Forest to predict the type of news based on the News Headline and a Small Description of the News (optional)."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
+              title="Login Page"
+              //description="This is a News Type Classification project that uses Random Forest to predict the type of news based on the News Headline and a Small Description of the News (optional)."
+              //ghLink="https://github.com/soumyajit4419/Editor.io"
               //demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
@@ -52,14 +52,14 @@ function Projects() {
             <ProjectCard
               // imgPath={leaf}
               isBlog={false}
-              title="ATM Simulator"
-              description="This ATM Simulator project is a Java-based application that simulates the functionalities of an Automated Teller Machine (ATM). It is designed using Java Swing for the graphical user interface and connects to a MySQL database to manage user accounts and transactions."
-              ghLink="https://github.com/nabhpatodi10/ATM-Simulator"
+              title="Password Generator"
+              //description="This ATM Simulator project is a Java-based application that simulates the functionalities of an Automated Teller Machine (ATM). It is designed using Java Swing for the graphical user interface and connects to a MySQL database to manage user accounts and transactions."
+              //ghLink="https://github.com/nabhpatodi10/ATM-Simulator"
               //demoLink="https://plant49-ai.herokuapp.com/"
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          {/* <Col md={4} className="project-card">
             <ProjectCard
               // imgPath={suicide}
               isBlog={false}
@@ -68,7 +68,7 @@ function Projects() {
               ghLink="https://github.com/nabhpatodi10/Billing-System"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
-          </Col>
+          </Col> */}
         </Row>
       </Container>
     </Container>
