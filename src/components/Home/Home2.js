@@ -20,14 +20,17 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C/C++, Java and Python. </b>
+                <b className="purple"> C/C++, Java, Flutter and Python. </b>
               </i>
               <br />
               <br />
               My field of Interest's are working on new &nbsp;
               <i>
-                <b className="purple">AI/ML algorithms </b> and also in areas
-                related to <b className="purple">IoT.</b>
+                <b className="purple">iOS development </b> and also in areas
+                related to{" "}
+                <b className="purple">
+                  other application development frameworks.
+                </b>
               </i>
               <br />
               <br />
@@ -48,7 +51,7 @@ function Home2() {
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
-                  href="https://github.com/nabhpatodi10"
+                  href="https://github.com/Gambre-gambre-senpai"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
@@ -59,7 +62,7 @@ function Home2() {
 
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/nabhpatodi10"
+                  href="https://www.linkedin.com/in/geetansh-rajesh-64697524b/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
